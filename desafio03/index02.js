@@ -1,7 +1,5 @@
 // Exemplo SOLID > I
 
-// Interfaces segregadas para diferentes tipos de dispositivos
-
 // Interface para dispositivos que podem imprimir
 class DispositivoComImpressao {
     imprimir() {
